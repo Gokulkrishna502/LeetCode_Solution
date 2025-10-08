@@ -38,6 +38,7 @@
 | :--- | :--- | :--- | :--- |
 | 1 | [Defanging an IP Address](https://leetcode.com/problems/defanging-an-ip-address/) | LeetCode #1205 | [Java](./defanging-an-ip-address/defanging-an-ip-address.java) |
 | 2 | [Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters/) | LeetCode #3 | [C++](./longest-substring-without-repeating-characters/longest-substring-without-repeating-characters.cpp) |
+| 3 | [Zigzag Conversion](https://leetcode.com/problems/zigzag-conversion/) | LeetCode #6 | [C++](./zigzag-conversion/zigzag-conversion.cpp) |
 
 ---
 *Synced automatically using [CodeSync](https://github.com/pardeep1916P/codeSync).*
