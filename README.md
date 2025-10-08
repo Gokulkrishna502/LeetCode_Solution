@@ -5,6 +5,19 @@
 | # | Problem | Platform | Language |
 | :--- | :--- | :--- | :--- |
 | 1 | [Two Sum](https://leetcode.com/problems/two-sum/) | LeetCode #1 | [Java](./two-sum/two-sum.java) |
+| 2 | [Median of Two Sorted Arrays](https://leetcode.com/problems/median-of-two-sorted-arrays/) | LeetCode #4 | [C++](./median-of-two-sorted-arrays/median-of-two-sorted-arrays.cpp) |
+
+## Binary Search
+
+| # | Problem | Platform | Language |
+| :--- | :--- | :--- | :--- |
+| 1 | [Median of Two Sorted Arrays](https://leetcode.com/problems/median-of-two-sorted-arrays/) | LeetCode #4 | [C++](./median-of-two-sorted-arrays/median-of-two-sorted-arrays.cpp) |
+
+## Divide and Conquer
+
+| # | Problem | Platform | Language |
+| :--- | :--- | :--- | :--- |
+| 1 | [Median of Two Sorted Arrays](https://leetcode.com/problems/median-of-two-sorted-arrays/) | LeetCode #4 | [C++](./median-of-two-sorted-arrays/median-of-two-sorted-arrays.cpp) |
 
 ## Hash Table
 
