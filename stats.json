@@ -5,12 +5,16 @@
       "README.md": "c33b30e01bd7ea0eccca45655eb3b0400efa7041"
     },
     "README.md": {
-      "": "01d904246615a34af9b50c6611f8325b5b246095"
+      "": "807d723591c53a46fdebabfdd1b0d8ed3989c7b2"
     },
     "stats.json": {
-      "": "5613edcb3e2eaf0e1206c21b25c15eb9b79de6e5"
+      "": "f5d39234a38636822a7b688a9cda0147e10e7e48"
+    },
+    "two-sum": {
+      "two-sum.java": "4ad2164b8c0097fbe1a5cd490ed756fd11e40bf1",
+      "README.md": "e47e462f97a9026e5bf07cad09a32197324b200b"
     }
   },
-  "solved": 1,
+  "solved": 2,
   "codesync_state": "cs:eyJsYXlvdXQiOiJmbGF0Iiwic3luY09uQWNjZXB0Ijp0cnVlLCJzeW5jSGlzdG9yaWNhbE9uVmlldyI6dHJ1ZSwiZGVza3RvcE5vdGlmaWNhdGlvbnMiOmZhbHNlLCJ0aGVtZSI6ImFtb2xlZCJ9"
 }
