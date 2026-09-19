@@ -1,32 +1,74 @@
 {
-  "shas": {
-    "defanging-an-ip-address": {
-      "defanging-an-ip-address.java": "fa401279283e49a7ed0e86910329089e0f901135",
-      "README.md": "c33b30e01bd7ea0eccca45655eb3b0400efa7041"
+  "totalSolved": 5,
+  "easy": 2,
+  "medium": 2,
+  "hard": 1,
+  "unknown": 0,
+  "problems": [
+    {
+      "number": 1,
+      "title": "Two Sum",
+      "slug": "two-sum",
+      "difficulty": "Easy",
+      "language": "Java",
+      "tags": [
+        "Array",
+        "Hash Table"
+      ],
+      "primaryDomain": "Array",
+      "folder": "Array/two-sum"
     },
-    "README.md": {
-      "": "d83d255814034eacdc53390b046d21ac22e84189"
+    {
+      "number": 3,
+      "title": "Longest Substring Without Repeating Characters",
+      "slug": "longest-substring-without-repeating-characters",
+      "difficulty": "Medium",
+      "language": "C++",
+      "tags": [
+        "Hash Table",
+        "String",
+        "Sliding Window"
+      ],
+      "primaryDomain": "String",
+      "folder": "String/longest-substring-without-repeating-characters"
     },
-    "stats.json": {
-      "": "79c8453e5e5b335d04ebbcfa361e27e96ebb7353"
+    {
+      "number": 4,
+      "title": "Median of Two Sorted Arrays",
+      "slug": "median-of-two-sorted-arrays",
+      "difficulty": "Hard",
+      "language": "C++",
+      "tags": [
+        "Array",
+        "Binary Search",
+        "Divide and Conquer"
+      ],
+      "primaryDomain": "Array",
+      "folder": "Array/median-of-two-sorted-arrays"
     },
-    "two-sum": {
-      "two-sum.java": "4ad2164b8c0097fbe1a5cd490ed756fd11e40bf1",
-      "README.md": "e47e462f97a9026e5bf07cad09a32197324b200b"
+    {
+      "number": 6,
+      "title": "Zigzag Conversion",
+      "slug": "zigzag-conversion",
+      "difficulty": "Medium",
+      "language": "C++",
+      "tags": [
+        "String"
+      ],
+      "primaryDomain": "String",
+      "folder": "String/zigzag-conversion"
     },
-    "longest-substring-without-repeating-characters": {
-      "longest-substring-without-repeating-characters.cpp": "176778b33c46d91f9bb5ec564fd3fa1049986abd",
-      "README.md": "fe6f11acc6fdd2aa286f5dbb6c74f4c34071a1dd"
-    },
-    "median-of-two-sorted-arrays": {
-      "median-of-two-sorted-arrays.cpp": "11f791ee80c535da13f51231f177e6f5f369c375",
-      "README.md": "72880e8180265e5c3ed79140b45ae892568cb4b8"
-    },
-    "zigzag-conversion": {
-      "zigzag-conversion.cpp": "69b416a396723d1da6614b9172db4569d6d24636",
-      "README.md": "eafe06ff0845b9f2bd3c5aa4fb83645ae0f685f1"
+    {
+      "number": 1108,
+      "title": "Defanging an IP Address",
+      "slug": "defanging-an-ip-address",
+      "difficulty": "Easy",
+      "language": "Java",
+      "tags": [
+        "String"
+      ],
+      "primaryDomain": "String",
+      "folder": "String/defanging-an-ip-address"
     }
-  },
-  "solved": 5,
-  "codesync_state": "cs:eyJsYXlvdXQiOiJmbGF0Iiwic3luY09uQWNjZXB0Ijp0cnVlLCJzeW5jSGlzdG9yaWNhbE9uVmlldyI6dHJ1ZSwiZGVza3RvcE5vdGlmaWNhdGlvbnMiOmZhbHNlLCJ0aGVtZSI6ImFtb2xlZCJ9"
+  ]
 }

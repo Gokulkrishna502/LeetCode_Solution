@@ -1,44 +1,78 @@
 # LeetCode_Solution
 
-## Array
+Automatically organized LeetCode solutions and progress.
 
-| # | Problem | Platform | Language |
-| :--- | :--- | :--- | :--- |
-| 1 | [Two Sum](https://leetcode.com/problems/two-sum/) | LeetCode #1 | [Java](./two-sum/two-sum.java) |
-| 2 | [Median of Two Sorted Arrays](https://leetcode.com/problems/median-of-two-sorted-arrays/) | LeetCode #4 | [C++](./median-of-two-sorted-arrays/median-of-two-sorted-arrays.cpp) |
+## 📊 Overall Progress
 
-## Binary Search
+| Difficulty | Solved |
+|---|---:|
+| 🟢 Easy | 2 |
+| 🟡 Medium | 2 |
+| 🔴 Hard | 1 |
+| ⚪ Unknown | 0 |
+| **Total Solved** | **5** |
 
-| # | Problem | Platform | Language |
-| :--- | :--- | :--- | :--- |
-| 1 | [Median of Two Sorted Arrays](https://leetcode.com/problems/median-of-two-sorted-arrays/) | LeetCode #4 | [C++](./median-of-two-sorted-arrays/median-of-two-sorted-arrays.cpp) |
+## 📚 Domain Summary
 
-## Divide and Conquer
+| Domain | Problems |
+|---|---:|
+| Array | 2 |
+| String | 3 |
 
-| # | Problem | Platform | Language |
-| :--- | :--- | :--- | :--- |
-| 1 | [Median of Two Sorted Arrays](https://leetcode.com/problems/median-of-two-sorted-arrays/) | LeetCode #4 | [C++](./median-of-two-sorted-arrays/median-of-two-sorted-arrays.cpp) |
+## 📋 Complete Problem List
 
-## Hash Table
+| # | Problem | LeetCode | Language | Difficulty | Domain |
+|---:|---|---|---|---|---|
+| 1 | [Two Sum](./Array/two-sum) | [LeetCode #1](https://leetcode.com/problems/two-sum/) | Java | Easy | Array |
+| 3 | [Longest Substring Without Repeating Characters](./String/longest-substring-without-repeating-characters) | [LeetCode #3](https://leetcode.com/problems/longest-substring-without-repeating-characters/) | C++ | Medium | String |
+| 4 | [Median of Two Sorted Arrays](./Array/median-of-two-sorted-arrays) | [LeetCode #4](https://leetcode.com/problems/median-of-two-sorted-arrays/) | C++ | Hard | Array |
+| 6 | [Zigzag Conversion](./String/zigzag-conversion) | [LeetCode #6](https://leetcode.com/problems/zigzag-conversion/) | C++ | Medium | String |
+| 1108 | [Defanging an IP Address](./String/defanging-an-ip-address) | [LeetCode #1108](https://leetcode.com/problems/defanging-an-ip-address/) | Java | Easy | String |
 
-| # | Problem | Platform | Language |
-| :--- | :--- | :--- | :--- |
-| 1 | [Two Sum](https://leetcode.com/problems/two-sum/) | LeetCode #1 | [Java](./two-sum/two-sum.java) |
-| 2 | [Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters/) | LeetCode #3 | [C++](./longest-substring-without-repeating-characters/longest-substring-without-repeating-characters.cpp) |
+## 🗂️ Problems by Domain
 
-## Sliding Window
+### Array
 
-| # | Problem | Platform | Language |
-| :--- | :--- | :--- | :--- |
-| 1 | [Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters/) | LeetCode #3 | [C++](./longest-substring-without-repeating-characters/longest-substring-without-repeating-characters.cpp) |
+| # | Problem | Language | Difficulty |
+|---:|---|---|---|
+| 1 | [Two Sum](./Array/two-sum) | Java | Easy |
+| 4 | [Median of Two Sorted Arrays](./Array/median-of-two-sorted-arrays) | C++ | Hard |
 
-## String
+### String
 
-| # | Problem | Platform | Language |
-| :--- | :--- | :--- | :--- |
-| 1 | [Defanging an IP Address](https://leetcode.com/problems/defanging-an-ip-address/) | LeetCode #1205 | [Java](./defanging-an-ip-address/defanging-an-ip-address.java) |
-| 2 | [Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters/) | LeetCode #3 | [C++](./longest-substring-without-repeating-characters/longest-substring-without-repeating-characters.cpp) |
-| 3 | [Zigzag Conversion](https://leetcode.com/problems/zigzag-conversion/) | LeetCode #6 | [C++](./zigzag-conversion/zigzag-conversion.cpp) |
+| # | Problem | Language | Difficulty |
+|---:|---|---|---|
+| 3 | [Longest Substring Without Repeating Characters](./String/longest-substring-without-repeating-characters) | C++ | Medium |
+| 6 | [Zigzag Conversion](./String/zigzag-conversion) | C++ | Medium |
+| 1108 | [Defanging an IP Address](./String/defanging-an-ip-address) | Java | Easy |
+
+### Hash Table
+
+| # | Problem | Language | Difficulty |
+|---:|---|---|---|
+| 1 | [Two Sum](./Array/two-sum) | Java | Easy |
+| 3 | [Longest Substring Without Repeating Characters](./String/longest-substring-without-repeating-characters) | C++ | Medium |
+
+### Binary Search
+
+| # | Problem | Language | Difficulty |
+|---:|---|---|---|
+| 4 | [Median of Two Sorted Arrays](./Array/median-of-two-sorted-arrays) | C++ | Hard |
+
+### Sliding Window
+
+| # | Problem | Language | Difficulty |
+|---:|---|---|---|
+| 3 | [Longest Substring Without Repeating Characters](./String/longest-substring-without-repeating-characters) | C++ | Medium |
+
+### Divide and Conquer
+
+| # | Problem | Language | Difficulty |
+|---:|---|---|---|
+| 4 | [Median of Two Sorted Arrays](./Array/median-of-two-sorted-arrays) | C++ | Hard |
 
 ---
-*Synced automatically using [CodeSync](https://github.com/pardeep1916P/codeSync).*
+
+🤖 Automatically updated using GitHub Actions.
+
+📌 Primary domains are selected using configured domain rules.
