@@ -1,0 +1,16 @@
+{
+  "shas": {
+    "defanging-an-ip-address": {
+      "defanging-an-ip-address.java": "fa401279283e49a7ed0e86910329089e0f901135",
+      "README.md": "c33b30e01bd7ea0eccca45655eb3b0400efa7041"
+    },
+    "README.md": {
+      "": "01d904246615a34af9b50c6611f8325b5b246095"
+    },
+    "stats.json": {
+      "": "5613edcb3e2eaf0e1206c21b25c15eb9b79de6e5"
+    }
+  },
+  "solved": 1,
+  "codesync_state": "cs:eyJsYXlvdXQiOiJmbGF0Iiwic3luY09uQWNjZXB0Ijp0cnVlLCJzeW5jSGlzdG9yaWNhbE9uVmlldyI6dHJ1ZSwiZGVza3RvcE5vdGlmaWNhdGlvbnMiOmZhbHNlLCJ0aGVtZSI6ImFtb2xlZCJ9"
+}
